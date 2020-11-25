@@ -1,0 +1,18 @@
+body
+{
+    background-color: #222831;
+    color: #ececec;
+}
+
+.info-card
+{
+    background-color: #30475E;
+    white-space: nowrap;
+}
+
+.info-card hr
+{
+    border: solid 1px #F2A365;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+}
